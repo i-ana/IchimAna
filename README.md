@@ -18,7 +18,7 @@ A begginer in IT but willing to learn.
 * Currentely studying at Colegiul National "Gh.R.Codreanu"
 
   ## 🛠 Technology Stack
-*   C++/C# L languages
+*   C++/C# languages
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/i-ana/github-profile-views-counter">
